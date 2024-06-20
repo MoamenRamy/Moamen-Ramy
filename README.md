@@ -29,4 +29,4 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/moamen-ramy-492a8b212)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)]([https://twitter.com/yourprofile](https://x.com/RahmoRamy))
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)]([https://x.com/RahmoRamy](https://x.com/RahmoRamy))
