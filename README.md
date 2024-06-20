@@ -2,12 +2,12 @@
 
 ## 👋 About Me
 
-Hello! I'm Moamen
+### Hello! I'm Moamen
 
 - 🔭 I’m Back-End Engineer.
 - 🌱 As a Back-End Engineer, i constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with PHP, Laravel, MySQL, Python, Django or anything related to web development
-- 📫 How to reach me: LinkedIn, gmail, Twitter
+- 💬 Ask me about my experience with PHP, Laravel, MySQL, Python, Django or anything related to web development.
+- 📫 How to reach me: LinkedIn, gmail, Twitter.
 
 ## 🚀 Technologies & Tools
 
